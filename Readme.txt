@@ -15,7 +15,10 @@ O *Equilibrium* é uma solução projetada para combater o burnout e aumentar o 
 * [Versionamento da API](#-versionamento-da-api)
 * [Configuração e Execução](#-configuração-e-execução)
 * [Documentação da API](#-documentação-da-api)
+---
 
+## Vídeo
+https://youtu.be/XfVN4zOh4GY
 ---
 
 ## 🔭 Visão Geral
