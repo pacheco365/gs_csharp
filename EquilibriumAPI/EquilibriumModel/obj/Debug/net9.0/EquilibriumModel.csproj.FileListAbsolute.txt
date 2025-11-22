@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\bin\Debug\net9.0\EquilibriumModel.deps.json
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\bin\Debug\net9.0\EquilibriumModel.dll
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\bin\Debug\net9.0\EquilibriumModel.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.sourcelink.json
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.dll
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\refint\EquilibriumModel.dll
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\EquilibriumModel.pdb
+C:\Users\USER\OneDrive\Área de Trabalho\project\EquilibriumAPI\EquilibriumModel\obj\Debug\net9.0\ref\EquilibriumModel.dll

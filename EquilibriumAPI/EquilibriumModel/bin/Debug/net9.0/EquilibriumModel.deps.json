@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EquilibriumModel/1.0.0": {
+        "runtime": {
+          "EquilibriumModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EquilibriumModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
